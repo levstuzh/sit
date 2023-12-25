@@ -9,6 +9,7 @@ window.geometry("500x200")
 
 def Hello():
     pole = input1.get()
+    print(pole)
 b_2 = tk.Button(window, text="button3", command=Hello )
 b_2.grid(column=3, row=2)
 input1 = tk.Entry(window, width='50')
