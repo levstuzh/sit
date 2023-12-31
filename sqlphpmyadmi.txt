@@ -1,0 +1,1 @@
+http://localhost/phpMyAdmin/index.php?route=/table/structure&db=sqlapp&table=users
